@@ -7,9 +7,14 @@
         <members>apex0002</members>
         <members>apex105</members>
         <members>appex119</members>
+        <members>appex121</members>
+        <members>appex122</members>
+        <members>cls50</members>
         <members>tes11111ssssssssss</members>
         <members>tesssssssssss</members>
+        <members>testobj100</members>
         <members>testobj200</members>
+        <members>textapex</members>
         <name>ApexClass</name>
     </types>
 </Package>
