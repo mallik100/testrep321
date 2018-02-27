@@ -12,6 +12,7 @@
         <members>A16789</members>
         <members>A180</members>
         <members>A19</members>
+        <members>A2</members>
         <members>A200</members>
         <members>A201</members>
         <members>A23</members>
@@ -28,7 +29,10 @@
         <members>SepClass5</members>
         <members>SepClass6</members>
         <members>a17testclass</members>
+        <members>a1testclass</members>
         <members>a29testclass</members>
+        <members>a2testclass</members>
+        <members>a5testclass</members>
         <members>demo48</members>
         <members>z1</members>
         <name>ApexClass</name>
