@@ -867,6 +867,7 @@
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <members>ZACRObj2__c</members>
+        <members>parentC__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -885,6 +886,10 @@
         <members>Ubj1__c-en_US</members>
         <members>ZACRObj2__c-en_US</members>
         <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>parentC__c</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
