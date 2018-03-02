@@ -6,6 +6,9 @@
         <members>A2</members>
         <members>A5</members>
         <members>Mycls1</members>
+        <members>a1testclass</members>
+        <members>a2testclass</members>
+        <members>a5testclass</members>
         <members>apex01</members>
         <members>apex105</members>
         <name>ApexClass</name>
